@@ -3,7 +3,9 @@ Introduction to using git and GitHub. Will lead you through your first fork, clo
 
 
 ## Fork the Repository (repo)
-<!-- A great name for a cloning company could be 'Get Forked!' -->
+
+A great name for a cloning company could be 'Get Forked!'
+
 1. Make sure you are logged into your GitHub account.
 1. Fork this repository (repo) by clicking the *fork* button.
  ![Image of the fork button on a GitHub repository](images/fork-screenshot.png)
